@@ -19,7 +19,7 @@ python convert.py
 ```
 -i The path of the file you whant to convert.  
 -o The path of the directory where you want to put the html file.
--a Make your program understandable by german.
+-a Make your program understandable by german.If you want to active German language type y after -a .
 --help show you all the commands usable.
 ```    
 ## IV - what you need to do?  
