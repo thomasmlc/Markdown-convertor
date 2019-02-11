@@ -19,9 +19,9 @@ python convert.py
 ```
 -i The path of the file you whant to convert.  
 -o The path of the directory where you want to put the html file.
+-a Make your program understandable by german.
 --help show you all the commands usable.
-```
-Another command don't work. The -a command should make your text understandable by german by transforming all s in z for example but it's not working so she's not available to use but you can see what i tried in my program.  
+```    
 ## IV - what you need to do?  
 Write your Markdown the best as you can with the good syntax because the program try to convert all text but he isn't perfect so he got some problem I tried to correct without success.  
 You need to have python 3.7 installed on your PC or install it [here](https://www.python.org/)  
