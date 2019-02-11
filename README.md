@@ -21,15 +21,15 @@ python convert.py
 -o The path of the directory where you want to put the html file.
 -a Make your program understandable by german. If you want to activate German language type y after -a .
 --help show you all the commands usable.
-```    
+``` 
+Example:
+```
+python convert.py -i your\Path -o your\other\path -a y
+```
 ## IV - what you need to do?  
 Write your Markdown the best as you can with the good syntax because the program try to convert all text but he isn't perfect so he got some problem I tried to correct without success.  
 You need to have python 3.7 installed on your PC or install it [here](https://www.python.org/)  
 You need to install two package in your command prompt :
-```
-Example:
-```
-python convert.py -i your\Path -o your\other\path -a y
 ```
 pip install click
 pip install markdown2
